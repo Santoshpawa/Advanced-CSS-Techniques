@@ -1,0 +1,27 @@
+#one{
+    color: black;
+    text-align: center;
+    background-color: aquamarine;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+/* Descendendant styling of unordered list */
+ul :hover{
+    color:white;
+    background-color: blueviolet;
+    cursor: pointer;
+}
+
+p{
+    color: brown;
+    margin-top: 50px;
+    background-color:bisque;
+}
+p:hover{
+    color: white;
+    background-color: darkgreen;
+}
+img{
+    padding-left: 40%;
+}
